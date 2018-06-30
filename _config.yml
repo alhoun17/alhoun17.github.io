@@ -1,2 +1,3 @@
 name: Alexander Calhoun, Rolling Developer
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title

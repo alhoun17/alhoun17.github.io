@@ -1,2 +1,7 @@
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+---
+layout: default
+comments: true
+# other options
+---

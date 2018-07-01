@@ -1,10 +1,2 @@
-name: Alexander Calhoun, Rolling Developer
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-paginate: 5
-paginate_path: "/blog/page:num/"
-defaults:
-  - scope:
-      path: "assets/img"
-    values:
-      image: true

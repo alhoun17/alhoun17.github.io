@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Alexander Calhoun, Self Taught Web Developer, Launches Site"
+category: [ blog, coding ]
 date: 2018-06-30
 ---
 
